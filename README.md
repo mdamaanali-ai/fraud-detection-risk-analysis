@@ -21,6 +21,8 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Fraud_Detection-red?style=for-the-badge)](https://fraud-detection-risk-analysis-iswrkpvcbma9cq7huxyac8.streamlit.app/)
+
 A demo dataset is included. For the formal submission, upload a suitable public financial/fraud dataset such as the ULB/Kaggle credit-card fraud dataset and document the exact source and license.
 
 ## Suggested GitHub repository
